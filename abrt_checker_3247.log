@@ -1,0 +1,7 @@
+Uncaught java.util.InputMismatchException exception in thread "main" in a method java.util.Scanner.throwFor() with signature ()V
+Exception in thread "main" java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Scanner.java:909) [jar:file:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.60-2.4.4.1.fc20.x86_64/jre/lib/rt.jar!/java/util/Scanner.class]
+	at java.util.Scanner.next(Scanner.java:1530) [jar:file:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.60-2.4.4.1.fc20.x86_64/jre/lib/rt.jar!/java/util/Scanner.class]
+	at java.util.Scanner.nextInt(Scanner.java:2160) [jar:file:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.60-2.4.4.1.fc20.x86_64/jre/lib/rt.jar!/java/util/Scanner.class]
+	at java.util.Scanner.nextInt(Scanner.java:2119) [jar:file:/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.60-2.4.4.1.fc20.x86_64/jre/lib/rt.jar!/java/util/Scanner.class]
+	at MiClase.main(MiClase.java:8) [file:/home/alumno/Finalprueba/TrabajoEnCLaseIS/bin/MiClase.class]
